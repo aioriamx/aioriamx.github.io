@@ -1,4 +1,4 @@
-title:            Evergreen Hacker Blog
+title:            Blog de José Viera
 tagline:          hack the planet
 description:      Official blog for Evergreen Hacker Club
 #Comment out url when working locally to resolve base urls correctly
@@ -9,7 +9,7 @@ owner:
   name:           Max David
   avatar:         bio-photo.jpg
   bio:            "Describe your self."
-  email:          your@email.com
+  email:          joseviera.cristian@hotmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        hackevergreen
   facebook:       
