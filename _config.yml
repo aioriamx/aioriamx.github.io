@@ -1,4 +1,4 @@
-title:            Blog de José Viera
+title:            AioriaMx
 tagline:          hack the planet
 description:      Official blog for Evergreen Hacker Club
 #Comment out url when working locally to resolve base urls correctly
@@ -8,7 +8,7 @@ description:      Official blog for Evergreen Hacker Club
 owner:
   name:           José Viera
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
+  bio:            "Blog dedicado de Hacking Etico"
   email:          joseviera.cristian@hotmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        AioriaMx
@@ -41,7 +41,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Los_Angeles
+timezone:    America/Arizona
 future:      true
 pygments:    true
 markdown:    kramdown
